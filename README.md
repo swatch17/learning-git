@@ -1,4 +1,4 @@
-### LearningGit
+### Learning Git
 
 #### this is master branch,maybe here ...
 
